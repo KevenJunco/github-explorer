@@ -95,7 +95,6 @@ export const Issues = styled.div`
       margin-top: 16px;
     }
 
-
     div {
       margin: 0 16px;
       flex: 1;
@@ -110,4 +109,5 @@ export const Issues = styled.div`
         margin-top: 4px;
       }
     }
+  }
 `;
