@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src=".github/logo.svg" alt="Logo">
-</h1>
+
 
 <h3 align="center">
-  Um simples explorador de repositório
+  A simple Github Explorer
 </h3>
 
 <p align="center">
