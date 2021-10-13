@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KevenJunco/github-explorer">
-  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23"></a>
+  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Keven%20Junco-%23"></a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/KevenJunco/github-explorer">
   <a href="https://github.com/KevenJunco/github-explorer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KevenJunco/github-explorer">
